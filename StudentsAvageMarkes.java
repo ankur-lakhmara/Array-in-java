@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentsAvageMarkes {
+public class StudentsAvageMarks {
     public static void main(String[]arg){
         System.out.println("Enter Total number of students");
         Scanner sc = new Scanner(System.in);
